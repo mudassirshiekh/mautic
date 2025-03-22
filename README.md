@@ -56,6 +56,7 @@ Open source means more than open code. Open source provides equality for all and
 </div>
 
 ## Get Involved Quickly
+## By Mudassir Alam
 
 Calling all potential contributors to open source! Get started quickly and show us what you’re made of.
 
